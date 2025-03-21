@@ -12,3 +12,6 @@ pip-modules/
 # Ignorar configuraciones específicas del editor/IDE
 .vscode/
 .idea/
+
+#ignore logs
+logs/
